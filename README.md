@@ -64,6 +64,4 @@ Your Windows Registry will look for the file paths of the scripts that make this
 
 ---
 
-I hope this script is useful to you and saves you time! Please feel free to give me feedback.
-And if you're happy enough to feel like buying me a beer via [my Ko-Fi page](https://ko-fi.com/gvguide), I'd love that and appreciate you very much!
--- Evie 🙂
+I hope this script is useful to you and saves you time! Please feel free to give me feedback or suggestions. And if you're happy enough to feel like buying me a beer via [my Ko-Fi page](https://ko-fi.com/gvguide), I'd appreciate it very much. -- Evie 🙂
