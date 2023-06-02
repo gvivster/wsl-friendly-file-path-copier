@@ -1,1 +1,1 @@
-C:\Users\smith\AppData\Local\Programs\Python\Python311\python.exe
+C:\Users\your_username\AppData\Local\Programs\Python\YourPythonVersion
