@@ -19,7 +19,7 @@ This is worded for someone at the experience level I was when I first started us
 
 As a heads up, you'll need administrator access to your computer in order to use this, as it interacts with your Windows Registry. In simpler terms: if this computer belongs to you, you're almost definitely fine, but you might not be able to add this to your work computer yourself.
 
-1. Make sure Python 3.7 or higher is installed on your computer. (If you're not sure, open your Command Prompt and type `python -v`. If it doesn't respond with a version number, go download and install it. If you do so, make sure to look out for the "add to your PATH" checkbox at the end of installation and make sure it's checkmarked.)
+1. Make sure Python 3.7 or higher is installed on your computer. (If you're not sure, open your Command Prompt and type `python -V`. If it doesn't respond with a version number, go download and install it. If you do so, make sure to look out for the "add to your PATH" checkbox at the end of installation and make sure it's checkmarked.)
 
 2. Install the `pyperclip` library: Open your Command Prompt and run the command `pip install pyperclip`.
    a) If you run into issues here, [this page](https://www.alphr.com/install-pip-windows/) is a great walkthrough for troubleshooting, and the steps should work for Windows 10 or 11.
